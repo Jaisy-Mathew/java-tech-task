@@ -34,3 +34,6 @@ The service provides an endpoint that will determine, from a set of recipes, wha
     ```
     
 3. Run Springboot LunchApplication
+
+4. Once the server is up, the Swagger API documentation can be found in http://hostName/swagger-ui.html. 
+	The Swagger introduction introduced a change in dateFormat which will be fixed in next release.
